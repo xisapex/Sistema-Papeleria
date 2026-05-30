@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../InstaladorPapeleria/InstaladorPapeleria.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="papeleriaFinal.csproj" />
+</Solution>
